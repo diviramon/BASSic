@@ -12,21 +12,21 @@ The BASSic can be divided into three main components: neck, body, and control ma
 
 The body of the instrument has two main purposes: hold the circuitry and make the playing experience more intuitive. The BASSic uses three 12-key capacitive touch sensros as well as a Teensy 3.5 microcontroller unit. Additionally, the body comes with an adjustable stand. This allows users to change the height of the instrument and to rest their arms while playing.
 
-![BASSic - Side View](/final_design_side.PNG)
+![BASSic - Side View](final_design_side.PNG)
 
 
 ## How it works?
 
 Below there is an image of a full working prototype of the BASSic. It comes with a pedal to adjust the volume while playing:
 
-![BASSic - Prototype](/prototype.jpg)
+![BASSic - Prototype](prototype.jpg)
 
 Additionally, an user manual is included to understand better how to interact with it, and how the different notes can be played:
 
-![User - Manual](/User-Manual.pdf)
+![User - Manual](User-Manual.pdf)
 
 ## Schematics
 
 Here is a full schematic of the circuitry for those interested:
 
-![BASSic - Schematic](/schematic.PNG)
+![BASSic - Schematic](schematic.PNG)
