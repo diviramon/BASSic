@@ -5,8 +5,8 @@
 
 #include <Wire.h>
 #include "Adafruit_MPR121.h"
-#include "BassicString.h"
-#include "ControlManager.h"
+#include "src/BassicString.h"
+#include "src/ControlManager.h"
 
 // The following are the MIDI notes mapped from each pin on the capacitive touch sensor boards
 // These correspond to pins :
