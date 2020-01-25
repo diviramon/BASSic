@@ -6,8 +6,27 @@ The BASSic is ergonomic and meets the user needs of people with osteoarthritis. 
 
 ## Design
 
-The BASSic can be broken down into two parts:
+The BASSic can be divided into three main components: neck, body, and control managers. The control managers are external components that can be connected to the body of the prototype to increase its capabilities. The neck of the instrument is the main user interface and it contains 48 touch-sensitive pads. It resembles the strings of a bass guitar by including four rows of 12 pads.  
+
+![BASSic - Top View](/final_design_top.PNG)
+
+The body of the instrument has two main purposes: hold the circuitry and make the playing experience more intuitive. The BASSic uses three 12-key capacitive touch sensros as well as a Teensy 3.5 microcontroller unit. Additionally, the body comes with an adjustable stand. This allows users to change the height of the instrument and to rest their arms while playing.
+
+![BASSic - Side View](/final_design_side.PNG)
+
 
 ## How it works?
 
-Prototype and manual
+Below there is an image of a full working prototype of the BASSic. It comes with a pedal to adjust the volume while playing:
+
+![BASSic - Prototype](/prototype.jpg)
+
+Additionally, an user manual is included to understand better how to interact with it, and how the different notes can be played:
+
+![User - Manual](/User-Manual.pdf)
+
+## Schematics
+
+Here is a full schematic of the circuitry for those interested:
+
+![BASSic - Schematic](/schematic.PNG)
