@@ -19,7 +19,7 @@ The body of the instrument has two main purposes: hold the circuitry and make th
 
 Below there is an image of a full working prototype of the BASSic. It comes with a pedal to adjust the volume while playing:
 
-![BASSic - Prototype](prototype.jpg)
+![BASSic - Prototype](prototype.png)
 
 Additionally, an user manual is included to understand better how to interact with it, and how the different notes can be played:
 
