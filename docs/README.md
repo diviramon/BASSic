@@ -23,7 +23,7 @@ Below there is an image of a full working prototype of the BASSic. It comes with
 
 Additionally, an user manual is included to understand better how to interact with it, and how the different notes can be played:
 
-![User - Manual](User-Manual.pdf)
+- [User - Manual](User-Manual.pdf)
 
 ## Schematics
 
