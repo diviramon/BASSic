@@ -10,7 +10,7 @@ The BASSic can be divided into three main components: neck, body, and control ma
 
 ![BASSic - Top View](final_design_top.PNG)
 
-The body of the instrument has two main purposes: hold the circuitry and make the playing experience more intuitive. The BASSic uses three 12-key capacitive touch sensros as well as a Teensy 3.5 microcontroller unit. Additionally, the body comes with an adjustable stand. This allows users to change the height of the instrument and to rest their arms while playing.
+The body of the instrument has two main purposes: hold the circuitry and make the playing experience more intuitive. The BASSic uses three 12-key capacitive touch sensors as well as a Teensy 3.5 microcontroller unit. Additionally, the body comes with an adjustable stand. This allows users to change the height of the instrument and to rest their arms while playing.
 
 ![BASSic - Side View](final_design_side.PNG)
 
